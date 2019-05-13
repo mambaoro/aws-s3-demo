@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iron-potion-240204",
+  "private_key_id": "e249929db7a62a17d89714f61fada9a2e0097c56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCgfjoOwPMf9lEM\n0ehCTtqddgDyAf/MrQDBv53afuBTMjwNCi95yU2Pih6htN+s9lNsA7OFR2usASfN\ntlxy706/2f8qK0/aYV7GBa1Q13SDI54VcrZ7dEqLHx7+9vVXygArwzOlyoRl63XE\nwFMAyj/dZm4+EsweaAtU6zY5MbZED2Wr1Hp6vnjtXVob8wE7dLP7Kpd1VPOEKBJb\nwbUO3nd3/WyS4+dmAFz/cvF74VXUn9tzP3y9bBcHm+jnM7fWXsT0kuaz3B9ixweO\nZ+6LyJnqjJaRBABVRKtolRnPOd8qClxTWB5mHNEpG35e9QvweRD0cNCEn0GM9Qq6\nqF232lIrAgMBAAECgf8MiS7gnso2mMuJsUwRl4qhDEM82i5jEJXGVDdGgnBSfbUb\n/E9OmleXtHhrxrD5OP8O4T8ldzZyTg01RHuv3e5FvLBGsAZMeOQiaV4qTrX/SAUq\nIjERr8RvG3Wnrdy/S/3imFysn4hQgcJz6RpaaeY8z0/zQP4X/IT6Jhne8Fx0Zcz+\n4bQE8YnP0PzwUYAgQdb7lmCTGiXfd7vCoh1MBmVkUyMvVM99vXYlsnWb6kRfX3YB\ni0U1GV2pIBPH1OiYyLtWtzHWEuwBnuqA94xWtIhy9ymcxxGGhIC+p/uv5cBc0Hiy\nfdv3KisRqLrdd0asMeZzsB2CdA9sDM5xWBEa+7ECgYEAy/TbbPBzqmfh2HR9Ki23\nBlojkrmG7hIbWAA/7ppnreXW92mtOMISfXylTyAKGCJUd5wthsc5JrVblxKxuU9x\nrbTL3NYdIA+Ap9xqE5PO2CM5R/zibrR2Y1p26XHNmZeW0tDx9P4Sri1DgRe9eWtJ\nHzmlsP4M6rRyo5z/S63HE3kCgYEAyXIwnuYsbBZ0bf72astCAd16jWDRxidk27zH\nz0fadcMPdt67Vb1DU6yAe5iqSTnkFsr099ao0BpCXqHpR+ozlxt5a1SCO2YIaNhK\nTmUKwzehYPxr/jWYDB1NQE2uM3uLQCLG9rhdEmLRRouM0ndGbsup58dJeaBsZjq2\nLV8WJcMCgYEAh4mQyDSCqRuf2liPVRhMKMx+F2NzZ4Jg6XpBAi9Z9xZmZMS1eKJ/\n5ySONqb0DlXCDDqdhpOeRzr+QscJlDxXLziWwYsIj+W9ec/gLmJrcvb1egFz+F20\nzxGvNDOMjiVO9YolQMoXX+h0k7VTFP1W+ok0swohS1ffVxteDMzPHwECgYAnwypl\nsvlBvIzuyUzKd6RnydfO4DWH726xEOo/t+cfJ4l95SkFG36WnY4e11uFaK/k79q6\nsNxRd11yYHMzhr74LKwiy2OJZfJy/35rSvZ84hYwlqKaYunIOmBtOOgRsWkjF7o+\nKNX2Mxsr2Y/KW1DDvd+jqGqQX2IGK8CZ5BLzEQKBgBaEA8MT6+wBmJ4ekCPIETpm\nDWJQVrRLFph7Yp0zzEQHzZMUEo1MkrUYRCB38JYoLXb1ZRsMF6dT3McHGxQnoF0q\nL2SOhmaUKpGUHj939SQ2ZyxU7RpG3K0RqCgtcYS3vBPRkuK5uPoqhq4H9OIgj8KG\n1oLJFUXUrKNPz6LV1VFo\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-demo@iron-potion-240204.iam.gserviceaccount.com",
+  "client_id": "110196796221211755103",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-demo%40iron-potion-240204.iam.gserviceaccount.com"
+}
