@@ -25,8 +25,8 @@ app.use(bodyParser.json());
 
 // AWS S3 setup
 AWS.config.update({
-  accessKeyId: 'AKIAJPISAL5DGFGMJC6Q',
-  secretAccessKey: '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',
+  accessKeyId: '',
+  secretAccessKey: '',
 });
 
 const s3 = new AWS.S3();
