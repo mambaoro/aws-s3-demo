@@ -101,7 +101,7 @@
     "styled-components": "^4.2.0",
     "unirest": "^0.6.0",
     "unstated": "^2.1.1",
-    "validator": "^10.11.0",
+    "validator": "^13.7.0",
     "warning": "^4.0.3"
   },
   "devDependencies": {
